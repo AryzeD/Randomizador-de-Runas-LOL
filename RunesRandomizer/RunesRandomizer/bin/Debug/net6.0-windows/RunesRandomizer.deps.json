@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RunesRandomizer/1.0.0": {
+        "runtime": {
+          "RunesRandomizer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RunesRandomizer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

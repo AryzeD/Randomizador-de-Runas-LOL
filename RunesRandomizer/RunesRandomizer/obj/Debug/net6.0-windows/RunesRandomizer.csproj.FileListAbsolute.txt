@@ -1,0 +1,36 @@
+C:\Users\dev\source\repos\RunesRandomizer\RunesRandomizer\bin\Debug\net6.0-windows\RunesRandomizer.exe
+C:\Users\dev\source\repos\RunesRandomizer\RunesRandomizer\bin\Debug\net6.0-windows\RunesRandomizer.deps.json
+C:\Users\dev\source\repos\RunesRandomizer\RunesRandomizer\bin\Debug\net6.0-windows\RunesRandomizer.runtimeconfig.json
+C:\Users\dev\source\repos\RunesRandomizer\RunesRandomizer\bin\Debug\net6.0-windows\RunesRandomizer.dll
+C:\Users\dev\source\repos\RunesRandomizer\RunesRandomizer\bin\Debug\net6.0-windows\RunesRandomizer.pdb
+C:\Users\dev\source\repos\RunesRandomizer\RunesRandomizer\obj\Debug\net6.0-windows\RunesRandomizer.csproj.AssemblyReference.cache
+C:\Users\dev\source\repos\RunesRandomizer\RunesRandomizer\obj\Debug\net6.0-windows\RunesRandomizer.Form1.resources
+C:\Users\dev\source\repos\RunesRandomizer\RunesRandomizer\obj\Debug\net6.0-windows\RunesRandomizer.csproj.GenerateResource.cache
+C:\Users\dev\source\repos\RunesRandomizer\RunesRandomizer\obj\Debug\net6.0-windows\RunesRandomizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\source\repos\RunesRandomizer\RunesRandomizer\obj\Debug\net6.0-windows\RunesRandomizer.AssemblyInfoInputs.cache
+C:\Users\dev\source\repos\RunesRandomizer\RunesRandomizer\obj\Debug\net6.0-windows\RunesRandomizer.AssemblyInfo.cs
+C:\Users\dev\source\repos\RunesRandomizer\RunesRandomizer\obj\Debug\net6.0-windows\RunesRandomizer.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\RunesRandomizer\RunesRandomizer\obj\Debug\net6.0-windows\RunesRandomizer.dll
+C:\Users\dev\source\repos\RunesRandomizer\RunesRandomizer\obj\Debug\net6.0-windows\refint\RunesRandomizer.dll
+C:\Users\dev\source\repos\RunesRandomizer\RunesRandomizer\obj\Debug\net6.0-windows\RunesRandomizer.pdb
+C:\Users\dev\source\repos\RunesRandomizer\RunesRandomizer\obj\Debug\net6.0-windows\RunesRandomizer.genruntimeconfig.cache
+C:\Users\dev\source\repos\RunesRandomizer\RunesRandomizer\obj\Debug\net6.0-windows\ref\RunesRandomizer.dll
+C:\Users\dev\source\repos\RunesRandomizer\RunesRandomizer\obj\Debug\net6.0-windows\RunesRandomizer.Properties.Resources.resources
+E:\projetos VS\proj\RunesRandomizer\RunesRandomizer\bin\Debug\net6.0-windows\RunesRandomizer.exe
+E:\projetos VS\proj\RunesRandomizer\RunesRandomizer\bin\Debug\net6.0-windows\RunesRandomizer.deps.json
+E:\projetos VS\proj\RunesRandomizer\RunesRandomizer\bin\Debug\net6.0-windows\RunesRandomizer.runtimeconfig.json
+E:\projetos VS\proj\RunesRandomizer\RunesRandomizer\bin\Debug\net6.0-windows\RunesRandomizer.dll
+E:\projetos VS\proj\RunesRandomizer\RunesRandomizer\bin\Debug\net6.0-windows\RunesRandomizer.pdb
+E:\projetos VS\proj\RunesRandomizer\RunesRandomizer\obj\Debug\net6.0-windows\RunesRandomizer.csproj.AssemblyReference.cache
+E:\projetos VS\proj\RunesRandomizer\RunesRandomizer\obj\Debug\net6.0-windows\RunesRandomizer.Form1.resources
+E:\projetos VS\proj\RunesRandomizer\RunesRandomizer\obj\Debug\net6.0-windows\RunesRandomizer.Properties.Resources.resources
+E:\projetos VS\proj\RunesRandomizer\RunesRandomizer\obj\Debug\net6.0-windows\RunesRandomizer.csproj.GenerateResource.cache
+E:\projetos VS\proj\RunesRandomizer\RunesRandomizer\obj\Debug\net6.0-windows\RunesRandomizer.GeneratedMSBuildEditorConfig.editorconfig
+E:\projetos VS\proj\RunesRandomizer\RunesRandomizer\obj\Debug\net6.0-windows\RunesRandomizer.AssemblyInfoInputs.cache
+E:\projetos VS\proj\RunesRandomizer\RunesRandomizer\obj\Debug\net6.0-windows\RunesRandomizer.AssemblyInfo.cs
+E:\projetos VS\proj\RunesRandomizer\RunesRandomizer\obj\Debug\net6.0-windows\RunesRandomizer.csproj.CoreCompileInputs.cache
+E:\projetos VS\proj\RunesRandomizer\RunesRandomizer\obj\Debug\net6.0-windows\RunesRandomizer.dll
+E:\projetos VS\proj\RunesRandomizer\RunesRandomizer\obj\Debug\net6.0-windows\refint\RunesRandomizer.dll
+E:\projetos VS\proj\RunesRandomizer\RunesRandomizer\obj\Debug\net6.0-windows\RunesRandomizer.pdb
+E:\projetos VS\proj\RunesRandomizer\RunesRandomizer\obj\Debug\net6.0-windows\RunesRandomizer.genruntimeconfig.cache
+E:\projetos VS\proj\RunesRandomizer\RunesRandomizer\obj\Debug\net6.0-windows\ref\RunesRandomizer.dll
